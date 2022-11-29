@@ -7,4 +7,4 @@ Solución a la practica 03 sobre Base de datos
 
 -Díaz Benítez Michelle
 
--Otañez Espinosa Victor
+-Espinoza Otañez Victor
